@@ -27,7 +27,6 @@ def purchase(data):
     
     deal = False
     while not deal:
-        
         if sofi + sofi_step > oldman:
             deal = oldman
             break;
@@ -37,7 +36,7 @@ def purchase(data):
             break;
         oldman = oldman - oldman_step    
         continue
-    adb
+    
     
     return deal
     
